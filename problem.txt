@@ -1,0 +1,6 @@
+Imagine you are on a 2 dimensional grid, starting at the origin (0, 0). You are then given a series of steps to take (like: north, west, west, north, south, east, east,…). After each step, check to see if you have crossed your own path, (ie. have been at that coordinate before). Print a message to the console to indicate that intersection. Then continue with the dataset printing each time you intersect a previously traversed coordinate.
+Trial data sets:
+{ north, west, west, north, east, east, south, east, south, south, south, north, north, north }
+{ north, west, west, north, east, north, east, south, east, east, south, south, south, east, north, east }
+Program should Report every time path crosses itself.
+Please write the Code for and/or explain the steps you would take to code this problem up in typescript.
